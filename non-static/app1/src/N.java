@@ -12,6 +12,5 @@ class N
 		n2.i=20;
 		System.out.println(n1.i);
 		System.out.println(n2.i);
-
 	}
 }
