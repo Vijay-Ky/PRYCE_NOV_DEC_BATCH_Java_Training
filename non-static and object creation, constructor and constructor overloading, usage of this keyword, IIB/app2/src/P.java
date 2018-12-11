@@ -3,13 +3,14 @@ class P
 {
 	P()
 	{
-			this(10,20);
+			//this(10,20);
 			System.out.println("P()");
 	}
 	P(int i,int j)
 	{
 		System.out.println("P(int,int)");
 	}
+	
 	public static void main(String[] args) 
 	{
 		P p1 = new P();

@@ -7,7 +7,7 @@ class S
 	}
 	S(int i)
 	{
-		S();
+		this();
 		System.out.println("S(int)");
 	}
 	public static void main(String[] args) 
