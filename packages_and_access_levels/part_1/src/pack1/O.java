@@ -6,7 +6,7 @@ class O
 		System.out.println("O()");
 	}
 }
-class P
+class P 
 {
 	public static void main(String[]args)
 	{

@@ -9,7 +9,7 @@ class M
 	}
 	static 
 	{
-		System.out.println("SIB");
+		System.out.println("M-SIB");
 	}
 	M(int i)
 	{
@@ -28,7 +28,7 @@ class N extends M
 	}
 	static 
 	{
-		System.out.println("SIB");
+		System.out.println("N-SIB");
 	}
 	N(int i)
 	{

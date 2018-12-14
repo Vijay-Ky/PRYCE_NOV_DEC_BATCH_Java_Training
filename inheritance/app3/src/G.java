@@ -3,7 +3,7 @@ class G
 	G()
 	{
 		//super();
-		//I.IIB;
+		//G.IIB;
 		System.out.println("G()");
 	}
 	{
@@ -19,7 +19,7 @@ class H extends G
 	H()
 	{
 		//super();
-		//I.IIB;
+		//H.IIB;
 		System.out.println("H()");
 	}
 	static 

@@ -8,10 +8,10 @@ class A
 
 class B extends A
 {
-	public void show()
+	/*public void show()
     {
         display();
-    }
+    }*/
 
     public static void display()
 	{

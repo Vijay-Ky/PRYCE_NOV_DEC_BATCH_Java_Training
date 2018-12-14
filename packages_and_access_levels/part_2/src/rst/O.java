@@ -3,8 +3,8 @@ class O
 {
 	public static void main(String[]args)
 	{
-		pryce.O o1= new pryce.N();
-		System.out.println(n1.i);
+		pryce.N obj = new pryce.N();
+		System.out.println(obj.i);
 	}
 }
  

@@ -1,9 +1,9 @@
 package rst;
-class Q
+class Q 
 {
 	public static void main(String[]args)
 	{
-		N n1= new N();
+		pryce.N n1 = new pryce.N();
 		System.out.println("done");
 	}
 }

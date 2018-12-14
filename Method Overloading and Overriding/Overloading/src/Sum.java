@@ -4,7 +4,7 @@
 public class Sum { 
   
     // Overloaded sum(). This sum takes two int parameters 
-    public int sum(int x, int y) 
+    public int sum(int x, double y) 
     { 
         return (x + y); 
     } 
@@ -25,7 +25,7 @@ public class Sum {
     public static void main(String args[]) 
     { 
         Sum s = new Sum(); 
-        System.out.println(s.sum(10, 20)); 
+        System.out.println(s.sum(10, 20.0)); 
         System.out.println(s.sum(10, 20, 30)); 
         System.out.println(s.sum(10.5, 20.5)); 
     } 

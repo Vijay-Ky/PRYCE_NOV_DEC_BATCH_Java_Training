@@ -1,6 +1,6 @@
 package rst;
-import pryce.N;
-class V extends N
+//import pryce.N;
+class V extends pryce.N
 {
 	public static void main(String[]args)
 	{
