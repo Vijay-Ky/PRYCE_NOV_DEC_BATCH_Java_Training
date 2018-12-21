@@ -9,6 +9,6 @@ class Y
 	Y(int i)
 	{
 		i = 10;
-		this.i =22;
+		this.i = 22;
 	}
 }

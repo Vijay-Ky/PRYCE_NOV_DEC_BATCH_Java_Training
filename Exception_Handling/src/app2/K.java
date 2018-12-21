@@ -17,12 +17,12 @@ class K
 		}
 		catch (ArithmeticException ex)
 		{
-				System.out.println("NFE");
+			System.out.println("NFE");
 		}
 		finally
 		{
-			System.out.println("finally")
-		}
+			System.out.println("finally");
+		}		
 		System.out.println("main end");
 	}
 }

@@ -1,12 +1,17 @@
 class J
 {
-	static void test()
+	static int test()
 	{
-		System.out.println("from J");
+		System.out.println("frm J test");
+		return 10;
 	}
 	static
 	{
 		System.out.println("SIB-J");
+	}
+	public static void main(String[]args)
+	{
+		System.out.println(test());
 	}
 }
 class K extends J
@@ -14,12 +19,5 @@ class K extends J
 	static
 	{
 		System.out.println("SIB-K");
-	}
-}
-class Manager5
-{
-	public static void main(String[]args)
-	{
-		K.test();
-	}
+	}	
 }

@@ -26,4 +26,3 @@ class Q
 		System.out.println("main end");
 	}
 }
-'

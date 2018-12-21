@@ -22,6 +22,7 @@ class C1 extends B
 	}
 	public static void main(String[] agrs)
 	{
+		//A a1 = new A();
 		//B b1 = new B();
 		C1 c1 = new C1();
 		c1.test1();

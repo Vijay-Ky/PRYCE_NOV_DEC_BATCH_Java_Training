@@ -4,7 +4,8 @@ class P
 	public static void main(String[] args)
 	{
 		final P p1 = new P();
-		p1.i = 10;
+		p1.i = 20;
 		System.out.println("done");
+		p1 = p1;
 	}
 }

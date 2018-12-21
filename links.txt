@@ -10,7 +10,10 @@
 
  - explicit casting from super class to subclass
    https://stackoverflow.com/questions/4862960/explicit-casting-from-super-class-to-subclass 
- -
+
+ - What is difference between C and JAVA?
+ 	1.https://practice.geeksforgeeks.org/problems/what-is-difference-between-c-and-java
+ 	2.https://techdifferences.com/difference-between-compiler-and-interpreter.html
  -
  -
  -

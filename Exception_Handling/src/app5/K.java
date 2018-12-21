@@ -5,7 +5,7 @@ class K
 	{
 		try
 		{
-			new FileWriter("");
+			//new FileWriter("");
 		}
 		catch (ClassNotFoundException ex)
 		{

@@ -10,6 +10,7 @@ class G extends A
 {
 	void test1()
 	{
+		System.out.println("from G");
 		//some statement
 	}
 }
@@ -17,8 +18,9 @@ class H
 {
 	public static void main(String[] agrs)
 	{
-		A a1 = new A();
+		//A a1 = new A();
 		G g1 = new G();
 	    System.out.println("done");
+	    g1.test1();
 	}
 }

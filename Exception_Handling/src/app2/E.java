@@ -24,7 +24,7 @@ class E
 				System.out.println("inner catch begin");
 				System.out.println("inner catch end");
 			}
-			System.out.println("inner catch begin");	
+			System.out.println("catch end");	
 		}
 		System.out.println("main end");
 	}

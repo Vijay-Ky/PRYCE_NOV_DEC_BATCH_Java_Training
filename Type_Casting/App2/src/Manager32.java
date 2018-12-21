@@ -12,6 +12,7 @@ class Manager32
 	{
 		P p1 = new P();
 		System.out.println(p1.i);
+		//System.out.println(p1.j);
 		Q q1 = new Q();
 		System.out.println(q1.i);
 		System.out.println(q1.j);

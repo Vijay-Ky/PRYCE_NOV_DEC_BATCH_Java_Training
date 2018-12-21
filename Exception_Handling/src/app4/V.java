@@ -1,8 +1,8 @@
 class V 
 {
 	public static void main(String[] args)
-	throws ClassNotFoundException
+	throws ArithmeticException
 	{
-		Class.forName("");
+		int i = 10/0;
 	}
 }

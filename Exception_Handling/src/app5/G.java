@@ -5,7 +5,6 @@ class G
 	throws Exception 
 	{
 		Class.forName("");
-		Connection con = D\riverManager.getConnection("","","");
-		
+		Connection con = DriverManager.getConnection("","","");	
 	}
 }

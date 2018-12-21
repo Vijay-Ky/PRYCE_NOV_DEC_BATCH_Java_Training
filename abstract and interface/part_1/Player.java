@@ -2,5 +2,6 @@
 interface Player 
 { 
     int id = 10; 
-    int move(); 
+    int move();
+    void test1(); 
 }

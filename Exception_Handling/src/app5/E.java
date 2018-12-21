@@ -5,6 +5,5 @@ class E
 	throws SQLException
 	{
 		Connection con = DriverManager.getConnection("","","");
-
 	}
 }

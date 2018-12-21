@@ -11,6 +11,7 @@ class R
 		}
 		catch (ClassNotFoundException ex)
 		{
+			ex.printStackTrace();
 		}
 	}
 }

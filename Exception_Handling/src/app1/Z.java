@@ -13,7 +13,7 @@ class Z
 		{
 			System.out.println("from catch");
 			//ex.printStackTrace(System.err);
-			System.err.println();
+			System.err.println(ex);
 		}
 		System.out.println("end of main");
 	}

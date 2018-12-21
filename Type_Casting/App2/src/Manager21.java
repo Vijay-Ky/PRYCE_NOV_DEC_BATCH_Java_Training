@@ -7,7 +7,7 @@ class Manager21
 	}
 	public static void main(String[] args)
 	{
-		D d1= (D) test();
+		D d1 = (D) test();
 		System.out.println("done");
 	}
 }

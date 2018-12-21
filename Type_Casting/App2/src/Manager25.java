@@ -8,7 +8,7 @@ class Manager25
 		System.out.println(22);
 		C c1 = (C)a1;
 		System.out.println(33);
-		D d1 = (D)a1;
+		D d2 = (D)a1;
 		System.out.println(44);
 	}
 }

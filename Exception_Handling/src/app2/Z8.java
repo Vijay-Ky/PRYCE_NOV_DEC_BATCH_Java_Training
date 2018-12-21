@@ -15,6 +15,7 @@ class Z8
 		}
 		System.out.println("main end");
 	}
+	
 }
 /*can keep try without a catch block but finally in manadatory.
 possible syntax

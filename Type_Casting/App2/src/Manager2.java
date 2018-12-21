@@ -2,6 +2,8 @@ class Manager2
 {
 	public static void main(String[] args)
 	{
+		//String i = null; 
+		//char j = null; 
 		Object obj = null;
 		A a1 = null;
 		B b1 = null;

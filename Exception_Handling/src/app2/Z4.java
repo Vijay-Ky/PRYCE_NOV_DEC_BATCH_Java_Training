@@ -11,7 +11,7 @@ class Z4
 		catch (ArithmeticException ex)
 		{
 			ex = null;
-		}
-		System.out.println("end of main:" + ex);
+			System.out.println(ex);
+		}	
 	}
 }

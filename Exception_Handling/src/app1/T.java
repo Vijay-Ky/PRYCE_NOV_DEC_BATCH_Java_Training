@@ -14,6 +14,7 @@ class T
 		{
 			System.out.println("from catch");
 			ex.printStackTrace(System.err);
+			//System.out.println(ex.getMessage());
 			System.out.println("catch end");
 		}
 		System.out.println("end of main");
