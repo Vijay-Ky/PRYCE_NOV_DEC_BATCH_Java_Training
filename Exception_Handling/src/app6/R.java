@@ -8,7 +8,7 @@ class R
 }
 class S extends R
 {
-	void tes1() 
+	void tes1() throws CloneNotSupportedException
 	{	
 
 	}

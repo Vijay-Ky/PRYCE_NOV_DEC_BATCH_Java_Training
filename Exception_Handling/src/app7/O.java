@@ -24,4 +24,4 @@ in JDK 1.7
 conditions
 1.only closeable type can be open
 2.all closeable resources is local to try.
-3.all closeable resources are acting as final.
+3.all closeable resources are acting as final.*/

@@ -1,4 +1,4 @@
-class P 
+	class P 
 {
 	static void test1()
 	throws ClassNotFoundException
